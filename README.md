@@ -5,5 +5,5 @@ Repositório criado para Desafio de projeto usando Git e GitHub.
 ### Tarefas
 
 - [x] Criar repositório remoto
-- [x] Clonar repositório remoto para repositóro local
-- [x] Adicionar README.md"
+- [x] Clonar repositório remoto para o repositóro local
+- [x] Adicionar README.md
