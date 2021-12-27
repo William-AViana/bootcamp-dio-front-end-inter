@@ -6,4 +6,4 @@ Repositório criado para Desafio de projeto usando Git e GitHub.
 
 - [x] Criar repositório remoto
 - [x] Clonar repositório remoto para repositóro local
-- [x] Adicionar README.md
+- [x] Adicionar README.md"
