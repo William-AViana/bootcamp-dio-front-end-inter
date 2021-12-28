@@ -9,16 +9,11 @@ Repositório criado para Desafio de projeto usando Git e GitHub.
 - [x] Adicionar README.md
 
 ## Assuntos relacionados a esse bootcamp
-<br>
 
 - ### Lógica de programação
-<br>
 
 - ### Estrutura de dados e algoritmo
-<br>
 
 - ### HTML5
-<br>
 
 - ### CSS3
-<br>
