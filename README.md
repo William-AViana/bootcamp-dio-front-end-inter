@@ -14,6 +14,25 @@ Repositório criado para Desafio de projeto usando Git e GitHub.
 
 - ### Estrutura de dados e algoritmo
 
+- ### Introdução ao Git e GitHub
+
+- ### Projetos ágeis com SCRUM
+
 - ### HTML5
 
 - ### CSS3
+
+- ### Bootstrap
+
+- ### Configurações da IDE (Visual Studio Code)
+
+- ### Introdução ao JavaScript
+  - Sintaxe Básica
+  - Operadores
+  - Variáveis e Tipos
+  - Funções
+  - Coleções
+  - Debugging e Error Handling
+  - JavaScript Assíncrono
+  - Orientação a Objetos
+  
